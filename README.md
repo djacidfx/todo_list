@@ -1,16 +1,13 @@
-# todo_list
+Todo List app creates tasks for users and tracks tasks gives a home screen dashboard of the task progress status. Users are able to view in the home screen the total number of all tasks, those that are complete and those that are pending. First time app users get a short tutorial on how to use the app. Tasks have the option of adding reminders and can be set at specific times and dates with notifications. Each task can be given a description to give more detail about the task.
 
-A new Flutter project.
+Each task can be viewed and users can be get specific insights about the task.
 
-## Getting Started
+The app also has a 'My Task' page where all tasks are grouped according into specific categories either 'ALL', 'PENDING', 'COMPLETE' and 'OVERDUE'.
 
-This project is a starting point for a Flutter application.
+The app has a dashboard achievement page which summarises the users activity and performance over a given time period either daily and weekly and the user is able to see how well he is using his time.
 
-A few resources to get you started if this is your first Flutter project:
+The app has several option of themes which can be chosen by the user depending on preference.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The app has paywalls on specific themes, tasks insights and task achievements.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app has the option paying for either lifetime, monthly or annual subscriptions.
